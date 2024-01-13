@@ -1,0 +1,22 @@
+#container{
+    border: 2px double black;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 2rem;
+}
+
+button{
+    width: 55px;
+    height: 55px;
+}
+
+body{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
